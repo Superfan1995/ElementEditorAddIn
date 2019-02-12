@@ -1,0 +1,3 @@
+C:\Users\labuser\source\repos\ElementEditorAddIn\ElementEditorAddIn\obj\Release\ElementEditorAddIn.ElementEditorForm.resources
+C:\Users\labuser\source\repos\ElementEditorAddIn\ElementEditorAddIn\obj\Release\ElementEditorAddIn.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\ElementEditorAddIn\ElementEditorAddIn\obj\Release\ElementEditorAddIn.csproj.CoreCompileInputs.cache
